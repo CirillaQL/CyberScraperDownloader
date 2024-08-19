@@ -13,8 +13,8 @@ export default function NavBar() {
           <Link href="/about" passHref legacyBehavior>
             <Button component="a" variant="subtle">About</Button>
           </Link>
-          <Link href="/contact" passHref legacyBehavior>
-            <Button component="a" variant="subtle">Contact</Button>
+          <Link href="/settings" passHref legacyBehavior>
+            <Button component="a" variant="subtle">Settings</Button>
           </Link>
         </Group>
       </Group>
